@@ -2,8 +2,7 @@
 
 ### 1. Clone the Repository
 
-
-bash
+```bash
 git clone https://github.com/shariar26868/backend.git
 cd backend
 
